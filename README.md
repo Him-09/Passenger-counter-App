@@ -18,7 +18,7 @@ Passenger Counter is a lightweight web application that displays a counter and t
 3. The saved entries appear at the bottom of the page.  
 
 ## 🖼️ Preview  
-![App Preview](https://via.placeholder.com/800x400?text=Passenger+Counter+Preview)  
+[Live Demo](https://passenger-counter-him.netlify.app/)  
 
 ## 💂 Project Structure  
 ```
@@ -38,5 +38,5 @@ No installation required! Just open `index.html` in a browser.
 - Improve UI with animations and modern design.  
 
 ## 📝 Author  
-Created with ❤️ by **Him**.
+Created with ❤️ by **Him-09**.
 
